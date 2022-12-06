@@ -1,1 +1,4 @@
-
+rabbitmq:
+  queue:
+    order:
+      name: 'order'

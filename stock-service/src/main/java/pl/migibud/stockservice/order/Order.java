@@ -1,4 +1,4 @@
-package pl.migibud.orderservice.order;
+package pl.migibud.stockservice.order;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
