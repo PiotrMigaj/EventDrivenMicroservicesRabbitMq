@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+rabbitmq:
+  queue:
+    order:
+      name: 'order_email'
+  exchange:
+    name: 'order_exchange'
+  binding:
+    routing:
+      key: 'order_routing_key'
+
